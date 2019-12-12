@@ -1,0 +1,1 @@
+when two different people type on different lines then it merges.
